@@ -1,5 +1,5 @@
 
-# Machine Learning Topics (includes Dee
+# Machine Learning Topics (includes Deep Learning Topics as well)
 <ol> <li>Supervised Learning
   <ul>
   <li> Linear Regression
