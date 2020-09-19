@@ -14,7 +14,9 @@
  <ul>
   <li> Clustering
   <li> K-means
+  <li> Anomaly Detection
  </ul>
+ <li> Bias/Variance
  <li> Evaluation metrics : Accuracy, Recall, F1 Score, ROC curve
  <li> Batch Normalization
  <li> Feature Engineering
